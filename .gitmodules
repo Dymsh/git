@@ -1,0 +1,3 @@
+[submodule "csssr"]
+	path = csssr
+	url = https://github.com/Dymsh/csssr.git
